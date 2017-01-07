@@ -1,5 +1,5 @@
 # AudioSpoof
-Magnetic stripe spoofer implementing audio waves.
+Magnetic stripe spoofer implementing audio waves.</br>
 Details: https://salmg.net/2017/01/06/how-to-transmit-mag-stripe-info-through-audio/
 
 g++ AudioSpoof.c</br>
